@@ -1,7 +1,7 @@
 # buttonless-camera
 A buttonless camera view app for Expo.
 
-##  Motivation
+## Motivation
 
 I needed to record my phone's screen without any buttons or status bar
 
