@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "buttonless-camera",
-    "description": "An empty new project",
+    "description":
+      "I needed to record my phone's screen without any buttons or status bar",
     "slug": "buttonless-camera",
     "privacy": "public",
     "sdkVersion": "22.0.0",
